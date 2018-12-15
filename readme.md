@@ -4,7 +4,7 @@
 npm install --save-dev @babel/core @babel/cli @babel/preset-env @babel/node nodemon
 ```
 
-# add script to package.json
+### add script to package.json
 
 ```
 "scripts": {
@@ -12,7 +12,7 @@ npm install --save-dev @babel/core @babel/cli @babel/preset-env @babel/node node
   }
 ```
 
-# create .babelrc
+### create .babelrc
 
 ```
 // .babelrc
