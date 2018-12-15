@@ -8,7 +8,7 @@ npm install --save-dev @babel/core @babel/cli @babel/preset-env @babel/node node
 
 ```
 "scripts": {
-    "start": "nodemon --exec babel-node src/server.js"
+    "start": "nodemon --exec babel-node index.js"
   }
 ```
 
