@@ -12,4 +12,4 @@ module.exports =  sequelize.define('navne', {
     køn: {
         type: Sequelize.STRING
       }
-  },{freezeTableName: true, timestamps: false, id : false});
+  },{freezeTableName: true, timestamps: false});
